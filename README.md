@@ -1,0 +1,1 @@
+# com.sjbmnq.wordcup
